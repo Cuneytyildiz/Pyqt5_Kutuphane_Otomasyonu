@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/martin-adams-_OZCl4XcpRw-unsplash (1).jpg</file>
+    <file>images/beulogo_ust.png</file>
+    <file>images/beulogo.png</file>
+    <file>images/janko-ferlic-sfL_QOnmy00-unsplash.jpg</file>
+    <file>images/beulogo_login.png</file>
+    <file>images/warning_back.png</file>
+    <file>images/warning_back2.png</file>
+    <file>images/warning_icon.png</file>
+  </qresource>
+</RCC>
