@@ -41,9 +41,7 @@ border-radius:15px;
 }
 
 QFrame:hover{
-
 background:rgba(0,0,0,0.73);
-
 }
 
 QLineEdit{
@@ -77,8 +75,6 @@ background:transparent
 QCheckBox:hover{
 color:white;
 }
-
-
 </string>
   </property>
   <widget class="QFrame" name="frame_2">
