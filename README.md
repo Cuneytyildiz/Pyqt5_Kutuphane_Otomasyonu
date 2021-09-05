@@ -1,4 +1,4 @@
-# Pyqt5_Kutuphane_Otomasyonu
+# Pyqt5 Kutuphane Otomasyonu
 Python programlama dili ve Pyqt5 arayüz kütüphanesi kullanılarak hazırlanmış Kütüphane Otomasyon sistemidir. Veritabanı olarak MySql tercih edilmiştir.
 
 ![](img/login_ekrani.png)
